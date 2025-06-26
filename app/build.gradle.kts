@@ -55,6 +55,8 @@ dependencies {
 
     val nav_version = "2.9.0"
 
+    implementation("androidx.security:security-crypto:1.1.0-alpha06")
+
     // Jetpack Compose integration
     implementation("androidx.navigation:navigation-compose:$nav_version")
 
