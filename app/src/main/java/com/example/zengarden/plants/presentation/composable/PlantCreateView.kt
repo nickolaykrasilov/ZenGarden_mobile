@@ -180,7 +180,7 @@ fun PlantCreateView(
 
 @Preview(showBackground = true)
 @Composable
-fun AddPlantViewPreview() {
+fun CreatePlantViewPreview() {
     ZenGardenTheme {
         Column(
             verticalArrangement = Arrangement.Center,
